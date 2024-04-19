@@ -1,5 +1,5 @@
 <!-- 타이틀 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=true&height=200&section=header&text=lt's%20Me!%20Hub&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=true&height=250&section=header&text=lt's%20Me!%20Hub&fontSize=60)
 <br><br><br><br>
 
 <!-- 프로필 -->
