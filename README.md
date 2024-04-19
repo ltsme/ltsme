@@ -9,7 +9,6 @@
 **Notion** : https://www.notion.so/1tsme93/1t-s-Me-FLIM-84f060d4aa6f47218d47020d77f9fbc5?pvs=4
 ---
 🌱 **Blog** : https://blog.naver.com/1tsmedev
-[이츠미의 Re: Mind : 네이버 블로그](https://blog.naver.com/1tsmedev)
 ---
 
 
