@@ -36,7 +36,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Android%20Studio-F3F3F3.svg?style=for-the-badge&logo=android-studio&logoColor=#3DDC84" />&nbsp
+  <img src="https://img.shields.io/badge/Android%20Studio-F3F3F3.svg?style=for-the-badge&logo=android&logoColor=#3DDC84" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-F3F3F3.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/Unity-F3F3F3.svg?style=for-the-badge&logo=unity&logoColor=181717" />&nbsp
 </div>
