@@ -1,5 +1,3 @@
-![image](https://github.com/ltsme/ltsme/assets/4065818/796a2878-fc0a-4c02-bc3a-d7f4a0fa2acb)
-
 [![ltsme's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltsme)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltsme&layout=compact)
