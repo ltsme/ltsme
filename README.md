@@ -1,9 +1,11 @@
 <!-- 타이틀 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=true&height=200&section=header&text=My%20GitHubrender&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=true&height=200&section=header&text=lt's%20me%20Hub&fontSize=60)
 
 
 <!-- 프로필 -->
-
+💻 
+### **Github**
+[ltsme - Overview](https://github.com/ltsme)
 
 
 <!-- 프로필 -->
