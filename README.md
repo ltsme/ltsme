@@ -4,9 +4,14 @@
 
 <!-- 프로필 -->
 💻 
-### **Github**
-[ltsme - Overview](https://github.com/ltsme)
-https://www.notion.so/1tsme93/1t-s-Me-FLIM-84f060d4aa6f47218d47020d77f9fbc5?pvs=4#873ae73ca5064f318f99316f86f871e9
+
+**Github** : https://github.com/ltsme
+
+---
+
+**Blog** : https://blog.naver.com/1tsmedev
+
+---
 
 
 <!-- 프로필 -->
