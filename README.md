@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltsme&layout=compact)
 
 
-🔭### **Blog**🔭
+🔭 ### **Blog** 🔭
 
 [이츠미의 Re: Mind : 네이버 블로그](https://blog.naver.com/1tsmedev)
 
