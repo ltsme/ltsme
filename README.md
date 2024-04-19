@@ -1,10 +1,10 @@
 <!-- 타이틀 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=true&height=200&section=header&text=lt's%20Me!%20Hub&fontSize=60)
-<br><br><br>
+<br><br><br><br>
 
 <!-- 프로필 -->
 # ☝️ IT's Me!
-<br>
+
 
 😄 **Notion** : [Finding Life In Moments, FLIM](https://www.notion.so/1t-s-Me-FLIM-84f060d4aa6f47218d47020d77f9fbc5?pvs=21)
 
@@ -16,7 +16,7 @@
 
 <!--내용 부분-->
 # ✌️ Stacks
-<br>
+<br><br><br>
 <h3 align="center">💻 Languages</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/java-F3F3F3.svg?style=for-the-badge&logo=CoffeeScript&logoColor=red" />&nbsp
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Flutter-F3F3F3.svg?style=for-the-badge&logo=flutter&logoColor=61DAFB" />&nbsp
     <img src="https://img.shields.io/badge/MySQL-F3F3F3.svg?style=for-the-badge&logo=mysql&logoColor=#4479A1" />&nbsp
 </div>
-<br>
+<br><br><br>
 
 <h3 align="center">🔨 Tools </h3>
 <div align="center">
